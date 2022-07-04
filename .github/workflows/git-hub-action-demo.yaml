@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - run: echo "CI/CD"
-      - run: docker --version
+      - run: ip a
